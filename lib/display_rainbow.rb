@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
 
-colors=[red]
+colors=["red"]
 
 puts colors
